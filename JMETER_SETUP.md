@@ -31,9 +31,9 @@ Note: Performance testing we can't implement with physical users.
 
 => Using JMETER we can create virtual users and we can test performance of the application with different work loads.
 
-==============
+
 JMETER Setup
-==============
+
 
 Step-1 : Download JMETER server as zip file 
 
@@ -41,9 +41,9 @@ Step-2 : Extract zip file
 
 Step-3 : Go to JMETER bin folder and run jmeter.bat file
 
-==========================
+
 Creating JMETER Test plan
-==========================
+
 
 ## Step-1 : Create SpringBoot application with below Rest Controller for testing 
 
