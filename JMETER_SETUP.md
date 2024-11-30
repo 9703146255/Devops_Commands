@@ -1,6 +1,6 @@
-==========
+
 JMETER
-==========
+
 
 => It is a free and open source s/w.
 
@@ -13,9 +13,9 @@ JMETER
 
 Note : Alternate for JMETER is HP company Load Runner software. It is paid software.
 
-==============================
+
 What is Performance Testing ?
-==============================
+
 
 => Performance Testing is used to identify stability and responsiveness of our application.
 
