@@ -5,6 +5,9 @@ yum install nginx -y
 cd /usr/share/nginx/html
 echo "<html><h1>Welcome to AWS Cloud</h1></html>" > index.html
 service nginx start
+
+
+
 Explanation:
 sudo su: Switch to the root user.
 yum install nginx -y: Installs the Nginx web server.
@@ -15,5 +18,5 @@ Access Your Website:
 Once you complete the above steps, open a browser and visit:
 
 plaintext
-Copy code
+
 http://your-ec2-public-ip
