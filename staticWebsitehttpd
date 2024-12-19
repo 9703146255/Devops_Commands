@@ -1,0 +1,10 @@
+--------------------------------
+Launch static website on website
+--------------------------------
+after creating EC2-INSTANCE WITH HTTP enabled run below commands and access http://13.60.169.28:80  (httpd static web page run on httpd server with port number 80)
+
+sudo su
+yum install httpd -y
+cd /var/www/html
+echo "<html><h1>Welcome to AWS Cloud</h1></html>" > index.html
+service httpd start
